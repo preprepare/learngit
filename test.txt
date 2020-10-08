@@ -1,0 +1,3 @@
+关注我，才能看。Git is a distributed version control system
+Gti is free software distributes under the GPL.
+Git has a mutable index called stage
